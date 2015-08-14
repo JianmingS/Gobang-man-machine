@@ -1,0 +1,31 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 五子棋 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/五子棋.res" /d "_DEBUG" /d "_AFXDLL" "D:\学习\大二\离散数学\离散实验课材料\离散课程实验——五子棋\计算机科学与技术12-2 五子棋\五子棋\五子棋.rc"" 
+Creating temporary file "C:\Users\Sjm\AppData\Local\Temp\RSPE8F9.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/五子棋.pdb" /debug /machine:I386 /out:"Debug/五子棋.exe" /pdbtype:sept 
+".\Debug\Chess.obj"
+".\Debug\SettingDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\五子棋.obj"
+".\Debug\五子棋Dlg.obj"
+".\Debug\五子棋.res"
+]
+Creating command line "link.exe @C:\Users\Sjm\AppData\Local\Temp\RSPE8F9.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+五子棋.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
